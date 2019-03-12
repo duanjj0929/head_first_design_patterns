@@ -12,3 +12,4 @@ Roadmap
     |    观察者模式(Observer Pattern)完成
     |    装饰者模式(Decorator Pattern)完成
     |    简单工厂模式(Simple Factory Pattern)完成
+    |    工厂方法模式(Factory Method Pattern)完成
