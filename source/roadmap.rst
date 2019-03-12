@@ -15,4 +15,5 @@ Roadmap
     |    工厂方法模式(Factory Method Pattern)完成
     |    抽象工厂模式(Abstract Factory Pattern)完成
     |    建造者模式(Builder Pattern)完成
+    |    单件模式(Singleton Pattern)完成
 
