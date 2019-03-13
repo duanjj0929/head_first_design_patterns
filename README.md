@@ -30,3 +30,5 @@
 - 建造者模式(Builder Pattern)
 - 单件模式(Singleton Pattern)
 - 命令模式(Command Pattern)
+- 适配器模式(Adapter Pattern)
+- 外观模式(Facade Pattern)

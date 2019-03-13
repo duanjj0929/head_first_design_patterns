@@ -18,3 +18,9 @@ Roadmap
     |    单件模式(Singleton Pattern)完成
     |    命令模式(Command Pattern)完成
 
+2019/03/13 - 2019/03/13:
+
+::
+
+    |    适配器模式(Adapter Pattern)完成
+    |    外观模式(Facade Pattern)完成
