@@ -10,6 +10,10 @@
 ----------
 类图
 ----------
+单例模式包含如下角色:
+
+- Singleton: 单例
+
 .. image:: ../../_static/08_singleton_pattern.jpg
 
 ----------

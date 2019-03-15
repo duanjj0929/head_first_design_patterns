@@ -1,4 +1,4 @@
-# Head First设计模式(中文版)笔记
+# Head First设计模式 - 笔记
 
 ## OO基础
 
@@ -34,3 +34,4 @@
 - 外观模式(Facade Pattern)
 - 模板方法模式(Template Method Pattern)
 - 迭代器模式(Iterator Pattern)
+- 组合模式(Composite Pattern)

@@ -10,8 +10,10 @@
 ----------
 类图
 ----------
-- AbstractClass：模板方法的抽象类
-- ConcreteClass：抽象方法由子类实现
+模板方法模式包含如下角色:
+
+- AbstractClass: 模板方法的抽象类
+- ConcreteClass: 抽象方法由子类实现
 
 .. image:: ../../_static/12_template_method_pattern.jpg
 
@@ -39,10 +41,16 @@
 ----------
 多来点咖啡因吧。
 
-类图:
+~~~~~~~~~~
+类图
+~~~~~~~~~~
+- CaffeineBeverage: 模板方法的抽象类
+- Coffee: 抽象方法由子类实现
+- Tea: 抽象方法由子类实现
 
 .. image:: ../../_static/12_caffeine_beverage.jpg
 
-时序图:
-
+~~~~~~~~~~
+时序图
+~~~~~~~~~~
 .. image:: ../../_static/12_seq_caffeine_beverage.jpg

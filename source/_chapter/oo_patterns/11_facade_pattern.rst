@@ -12,9 +12,11 @@ https://design-patterns.readthedocs.io/zh_CN/latest/structural_patterns/facade.h
 ----------
 类图
 ----------
-- Client：客户
-- Facade：外观角色
-- SubSystem：子系统角色
+外观模式包含如下角色:
+
+- Client: 客户类
+- Facade: 外观角色
+- SubSystem: 子系统角色
 
 .. image:: ../../_static/11_facade_pattern.jpg
 

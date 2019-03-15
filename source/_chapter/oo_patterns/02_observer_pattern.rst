@@ -10,6 +10,13 @@
 ----------
 类图
 ----------
+观察者模式包含如下角色:
+
+- Subject: 目标
+- ConcreteSubject: 具体目标
+- Observer: 观察者
+- ConcreteObserver: 具体观察者
+
 .. image:: ../../_static/02_observer_pattern.jpg
 
 ----------
@@ -29,7 +36,7 @@
 - 要注意\ ``java.util.Observable``\ 实现上所带来的一些问题。
 - 如果有必要的话，可以实现自己的Observable，这并不难，不要害怕。
 - Swing大量使用观察者模式，许多GUI框架也是如此。
-- 此模式也被应用在许多地方，例如：JavaBeans、RMI。
+- 此模式也被应用在许多地方，例如: JavaBeans、RMI。
 
 ----------
 实例

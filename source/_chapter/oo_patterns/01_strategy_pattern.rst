@@ -10,6 +10,12 @@
 ----------
 类图
 ----------
+策略模式包含如下角色:
+
+- Context: 环境类
+- Strategy: 抽象策略类
+- ConcreteStrategy: 具体策略类
+
 .. image:: ../../_static/01_strategy_pattern.jpg
 
 ----------

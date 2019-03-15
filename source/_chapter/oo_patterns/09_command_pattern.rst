@@ -12,6 +12,16 @@ https://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/command.
 ----------
 类图
 ----------
+命令模式包含如下角色:
+
+- Client: 客户类
+- Invoker: 调用者
+- Receiver: 接收者
+- Command: 抽象命令类
+- ConcreteCommand: 具体命令类
+- NoCommand: 空命令类
+- MacroCommand: 宏命令类
+
 .. image:: ../../_static/09_command_pattern.jpg
 
 ----------
@@ -37,12 +47,21 @@ https://design-patterns.readthedocs.io/zh_CN/latest/behavioral_patterns/command.
 ----------
 电视机遥控器
 
-电视机是请求的接收者，遥控器是请求的发送者，遥控器上有一些按钮，不同的按钮对应电视机的不同操作。抽象命令角色由一个命令接口来扮演，有三个具体的命令类实现了抽象命令接口，这三个具体命令类分别代表三种操作：打开电视机、关闭电视机和切换频道。显然，电视机遥控器就是一个典型的命令模式应用实例。
+电视机是请求的接收者，遥控器是请求的发送者，遥控器上有一些按钮，不同的按钮对应电视机的不同操作。抽象命令角色由一个命令接口来扮演，有三个具体的命令类实现了抽象命令接口，这三个具体命令类分别代表三种操作: 打开电视机、关闭电视机和切换频道。显然，电视机遥控器就是一个典型的命令模式应用实例。
 
-类图:
+~~~~~~~~~~
+类图
+~~~~~~~~~~
+- Client: 客户类
+- Controller: 调用者
+- Televation: 接收者
+- Command: 抽象命令类
+- TVOpenCommand: 具体命令类
+- TVCloseCommand: 具体命令类
 
 .. image:: ../../_static/09_remote_control.jpg
 
-时序图:
-
+~~~~~~~~~~
+时序图
+~~~~~~~~~~
 .. image:: ../../_static/09_seq_remote_control.jpg
