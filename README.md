@@ -35,3 +35,4 @@
 - 模板方法模式(Template Method Pattern)
 - 迭代器模式(Iterator Pattern)
 - 组合模式(Composite Pattern)
+- 状态模式(State Pattern)
