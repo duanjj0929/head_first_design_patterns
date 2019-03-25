@@ -44,3 +44,4 @@ Roadmap
 ::
 
     |    代理模式(Proxy Pattern)完成
+    |    桥接模式(Bridge Pattern)完成
