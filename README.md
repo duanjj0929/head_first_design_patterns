@@ -1,4 +1,4 @@
-# Head First设计模式 - 笔记
+# Head First设计模式 - 学习笔记
 
 ## OO基础
 
@@ -36,3 +36,4 @@
 - 迭代器模式(Iterator Pattern)
 - 组合模式(Composite Pattern)
 - 状态模式(State Pattern)
+- 代理模式(Proxy Pattern)

@@ -38,3 +38,9 @@ Roadmap
 ::
 
     |    状态模式(State Pattern)完成
+
+2019/03/21 - 2019/03/25:
+
+::
+
+    |    代理模式(Proxy Pattern)完成
