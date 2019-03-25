@@ -45,3 +45,4 @@ Roadmap
 
     |    代理模式(Proxy Pattern)完成
     |    桥接模式(Bridge Pattern)完成
+    |    责任链模式(Chain of Responsibility Pattern)完成
