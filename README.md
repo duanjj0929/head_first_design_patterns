@@ -40,3 +40,4 @@
 - 桥接模式(Bridge Pattern)
 - 责任链模式(Chain of Responsibility Pattern)
 - 享元模式(Flyweight Pattern)
+- 解释器模式(Interpreter Pattern)
