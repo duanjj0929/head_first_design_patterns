@@ -39,10 +39,11 @@ Roadmap
 
     |    状态模式(State Pattern)完成
 
-2019/03/21 - 2019/03/25:
+2019/03/21 - 2019/03/26:
 
 ::
 
     |    代理模式(Proxy Pattern)完成
     |    桥接模式(Bridge Pattern)完成
     |    责任链模式(Chain of Responsibility Pattern)完成
+    |    享元模式(Flyweight Pattern)完成
