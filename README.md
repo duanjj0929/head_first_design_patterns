@@ -42,3 +42,4 @@
 - 享元模式(Flyweight Pattern)
 - 解释器模式(Interpreter Pattern)
 - 中介者模式(Mediator Pattern)
+- 备忘录模式(Memento Pattern)

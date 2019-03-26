@@ -49,3 +49,4 @@ Roadmap
     |    享元模式(Flyweight Pattern)完成
     |    解释器模式(Interpreter Pattern)完成
     |    中介者模式(Mediator Pattern)完成
+    |    备忘录模式(Memento Pattern)完成
