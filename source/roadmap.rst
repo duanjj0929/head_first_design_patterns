@@ -48,3 +48,4 @@ Roadmap
     |    责任链模式(Chain of Responsibility Pattern)完成
     |    享元模式(Flyweight Pattern)完成
     |    解释器模式(Interpreter Pattern)完成
+    |    中介者模式(Mediator Pattern)完成

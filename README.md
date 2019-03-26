@@ -41,3 +41,4 @@
 - 责任链模式(Chain of Responsibility Pattern)
 - 享元模式(Flyweight Pattern)
 - 解释器模式(Interpreter Pattern)
+- 中介者模式(Mediator Pattern)
