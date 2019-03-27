@@ -51,3 +51,4 @@ Roadmap
     |    中介者模式(Mediator Pattern)完成
     |    备忘录模式(Memento Pattern)完成
     |    原型模式(Prototype Pattern)完成
+    |    访问者模式(Visitor Pattern)完成
