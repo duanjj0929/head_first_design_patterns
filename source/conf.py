@@ -19,8 +19,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Head First Design Patterns'
-copyright = '2019, duanjj'
-author = 'duanjj'
+copyright = '2019, duanjj0929'
+author = 'duanjj0929'
 
 # The short X.Y version
 version = '0.1'
@@ -59,7 +59,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'zh_CN'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -127,7 +127,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'HeadFirstDesignPatterns.tex',
-     'Head First Design Patterns Documentation', 'duanjj', 'manual'),
+     'Head First Design Patterns Documentation', 'duanjj0929', 'manual'),
 ]
 
 # -- Options for manual page output ------------------------------------------
