@@ -16,11 +16,11 @@
 -   AbstractProduct: 抽象产品
 -   Product: 具体产品
 
-![image](../../_static/06_abstract_factory_pattern.jpg)
+![](../../_static/06_abstract_factory_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/06_seq_abstract_factory_pattern.jpg)
+![](../../_static/06_seq_abstract_factory_pattern.jpg)
 
 ## 要点
 

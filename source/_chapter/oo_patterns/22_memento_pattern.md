@@ -14,11 +14,11 @@
 -   Memento: 备忘录
 -   Caretaker: 负责人
 
-![image](../../_static/22_memento_pattern.jpg)
+![](../../_static/22_memento_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/22_seq_memento_pattern.jpg)
+![](../../_static/22_seq_memento_pattern.jpg)
 
 ## 要点
 
@@ -39,8 +39,8 @@
 -   Memento: 备忘录
 -   Caretaker: 负责人
 
-![image](../../_static/22_boss.jpg)
+![](../../_static/22_boss.jpg)
 
 ### 时序图
 
-![image](../../_static/22_seq_boss.jpg)
+![](../../_static/22_seq_boss.jpg)

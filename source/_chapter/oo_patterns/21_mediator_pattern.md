@@ -15,11 +15,11 @@
 -   Colleague: 抽象同事类
 -   ConcreteColleague: 具体同事类
 
-![image](../../_static/21_mediator_pattern.jpg)
+![](../../_static/21_mediator_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/21_seq_mediator_pattern.jpg)
+![](../../_static/21_seq_mediator_pattern.jpg)
 
 ## 要点
 
@@ -43,8 +43,8 @@
 -   DiamondMember: 钻石会员
 -   CommonMember: 普通会员
 
-![image](../../_static/21_chatroom.jpg)
+![](../../_static/21_chatroom.jpg)
 
 ### 时序图
 
-![image](../../_static/21_seq_chatroom.jpg)
+![](../../_static/21_seq_chatroom.jpg)

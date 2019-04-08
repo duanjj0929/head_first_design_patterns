@@ -15,11 +15,11 @@ Method)模式，可以根据参数的不同返回不同类的实例，被创建�
 -   Product: 抽象产品角色  
 -   ConcreteProduct: 具体产品角色  
 
-![image](../../_static/04_simple_factory_pattern.jpg)
+![](../../_static/04_simple_factory_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/04_seq_simple_factory_pattern.jpg)
+![](../../_static/04_seq_simple_factory_pattern.jpg)
 
 ## 要点
 

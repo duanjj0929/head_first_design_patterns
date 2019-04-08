@@ -14,11 +14,11 @@
 -   Handler: 抽象处理者
 -   ConcreteHandler: 具体处理者
 
-![image](../../_static/18_chain_of_responsibility_pattern.jpg)
+![](../../_static/18_chain_of_responsibility_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/18_seq_chain_of_responsibility_pattern.jpg)
+![](../../_static/18_seq_chain_of_responsibility_pattern.jpg)
 
 ## 要点
 
@@ -43,8 +43,8 @@
 -   ComplaintHandler: 父母抱怨邮件处理者
 -   NewLocHandler: 店家邮件处理者
 
-![image](../../_static/18_a_flood_of_e-mails.jpg)
+![](../../_static/18_a_flood_of_e-mails.jpg)
 
 ### 时序图
 
-![image](../../_static/18_seq_a_flood_of_e-mails.jpg)
+![](../../_static/18_seq_a_flood_of_e-mails.jpg)

@@ -17,15 +17,15 @@
 
 对象适配器:
 
-![image](../../_static/10_adapter_pattern.jpg)
+![](../../_static/10_adapter_pattern.jpg)
 
 类适配器:
 
-![image](../../_static/10_adapter_pattern_classModel.jpg)
+![](../../_static/10_adapter_pattern_classModel.jpg)
 
 ## 时序图
 
-![image](../../_static/10_seq_adapter_pattern.jpg)
+![](../../_static/10_seq_adapter_pattern.jpg)
 
 ## 要点
 
@@ -41,11 +41,11 @@
 
 旧世界的枚举器
 
-![image](../../_static/10_enumeration.jpg)
+![](../../_static/10_enumeration.jpg)
 
 新世界的迭代器
 
-![image](../../_static/10_iterator.jpg)
+![](../../_static/10_iterator.jpg)
 
 ### 类图
 
@@ -54,11 +54,11 @@
 -   EnumerationIterator: 适配器
 -   Enumeration: 被适配者
 
-![image](../../_static/10_enumeration_iterator.jpg)
+![](../../_static/10_enumeration_iterator.jpg)
 
 ### 时序图
 
-![image](../../_static/10_seq_enumeration_iterator.jpg)
+![](../../_static/10_seq_enumeration_iterator.jpg)
 
 ## 实例2
 

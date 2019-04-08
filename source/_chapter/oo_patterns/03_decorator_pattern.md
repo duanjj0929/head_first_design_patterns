@@ -13,11 +13,11 @@
 -   Decorator: 抽象装饰类
 -   ConcreteDecorator: 具体装饰类
 
-![image](../../_static/03_decorator_pattern.jpg)
+![](../../_static/03_decorator_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/03_seq_decorator_pattern.jpg)
+![](../../_static/03_seq_decorator_pattern.jpg)
 
 ## 要点
 

@@ -16,11 +16,11 @@
 -   Implementor: 实现类接口
 -   ConcreteImplementor: 具体实现类
 
-![image](../../_static/17_bridge_pattern.jpg)
+![](../../_static/17_bridge_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/17_seq_bridge_pattern.jpg)
+![](../../_static/17_seq_bridge_pattern.jpg)
 
 ## 要点
 
@@ -49,8 +49,8 @@
 -   VideoFile\_RMVB: RMVB视频文件
 -   VideoFile\_AVI: AVI视频文件
 
-![image](../../_static/17_video_player.jpg)
+![](../../_static/17_video_player.jpg)
 
 ### 时序图
 
-![image](../../_static/17_seq_video_player.jpg)
+![](../../_static/17_seq_video_player.jpg)

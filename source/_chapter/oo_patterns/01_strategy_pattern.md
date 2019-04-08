@@ -12,11 +12,11 @@
 -   Strategy: 抽象策略类
 -   ConcreteStrategy: 具体策略类
 
-![image](../../_static/01_strategy_pattern.jpg)
+![](../../_static/01_strategy_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/01_seq_strategy_pattern.jpg)
+![](../../_static/01_seq_strategy_pattern.jpg)
 
 ## 要点
 

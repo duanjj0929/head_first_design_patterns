@@ -13,11 +13,11 @@
 -   Leaf: 叶子节点
 -   Composite: 组合
 
-![image](../../_static/14_composite_pattern.jpg)
+![](../../_static/14_composite_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/14_seq_composite_pattern.jpg)
+![](../../_static/14_seq_composite_pattern.jpg)
 
 ## 要点
 
@@ -45,8 +45,8 @@
 -   CompositeIterator: 组合迭代器
 -   NullIterator: 空迭代器
 
-![image](../../_static/14_menu_tree.jpg)
+![](../../_static/14_menu_tree.jpg)
 
 ### 时序图
 
-![image](../../_static/14_seq_menu_tree.jpg)
+![](../../_static/14_seq_menu_tree.jpg)

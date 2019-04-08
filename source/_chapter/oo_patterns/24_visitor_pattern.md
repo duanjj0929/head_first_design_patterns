@@ -18,11 +18,11 @@
 -   ConcreteElement: 具体元素
 -   ObjectStructure: 对象结构
 
-![image](../../_static/24_visitor_pattern.jpg)
+![](../../_static/24_visitor_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/24_seq_visitor_pattern.jpg)
+![](../../_static/24_seq_visitor_pattern.jpg)
 
 ## 要点
 
@@ -48,8 +48,8 @@
 -   Student: 学生元素
 -   ObjectStructure: 对象结构
 
-![image](../../_static/24_grade_researcher.jpg)
+![](../../_static/24_grade_researcher.jpg)
 
 ### 时序图
 
-![image](../../_static/24_seq_grade_researcher.jpg)
+![](../../_static/24_seq_grade_researcher.jpg)

@@ -11,11 +11,11 @@
 -   AbstractClass: 模板方法的抽象类
 -   ConcreteClass: 抽象方法由子类实现
 
-![image](../../_static/12_template_method_pattern.jpg)
+![](../../_static/12_template_method_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/12_seq_template_method_pattern.jpg)
+![](../../_static/12_seq_template_method_pattern.jpg)
 
 ## 要点
 
@@ -40,8 +40,8 @@
 -   Coffee: 抽象方法由子类实现
 -   Tea: 抽象方法由子类实现
 
-![image](../../_static/12_caffeine_beverage.jpg)
+![](../../_static/12_caffeine_beverage.jpg)
 
 ### 时序图
 
-![image](../../_static/12_seq_caffeine_beverage.jpg)
+![](../../_static/12_seq_caffeine_beverage.jpg)

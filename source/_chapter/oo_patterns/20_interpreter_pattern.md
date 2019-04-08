@@ -16,11 +16,11 @@
 -   Context: 环境类
 -   Client: 客户类
 
-![image](../../_static/20_interpreter_pattern.jpg)
+![](../../_static/20_interpreter_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/20_seq_interpreter_pattern.jpg)
+![](../../_static/20_seq_interpreter_pattern.jpg)
 
 ## 要点
 
@@ -47,8 +47,8 @@
 -   Calculator: 计算器
 -   Client: 客户端
 
-![image](../../_static/20_calculator.jpg)
+![](../../_static/20_calculator.jpg)
 
 ### 时序图
 
-![image](../../_static/20_seq_calculator.jpg)
+![](../../_static/20_seq_calculator.jpg)

@@ -14,11 +14,11 @@
 -   Facade: 外观角色
 -   SubSystem: 子系统角色
 
-![image](../../_static/11_facade_pattern.jpg)
+![](../../_static/11_facade_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/11_seq_facade_pattern.jpg)
+![](../../_static/11_seq_facade_pattern.jpg)
 
 ## 要点
 

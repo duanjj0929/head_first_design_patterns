@@ -12,11 +12,11 @@
 -   State: 抽象状态类
 -   ConcreteState: 具体状态类
 
-![image](../../_static/15_state_pattern.jpg)
+![](../../_static/15_state_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/15_seq_state_pattern.jpg)
+![](../../_static/15_seq_state_pattern.jpg)
 
 ## 要点
 
@@ -37,7 +37,7 @@
 
 ### 状态图
 
-![image](../../_static/15_sm_gumball_machine.jpg)
+![](../../_static/15_sm_gumball_machine.jpg)
 
 ### 类图
 
@@ -49,8 +49,8 @@
 -   WinnerState: 赢家
 -   SoldOutState: 糖果售罄
 
-![image](../../_static/15_gumball_machine.jpg)
+![](../../_static/15_gumball_machine.jpg)
 
 ### 时序图
 
-![image](../../_static/15_seq_gumball_machine.jpg)
+![](../../_static/15_seq_gumball_machine.jpg)

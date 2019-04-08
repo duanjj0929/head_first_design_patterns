@@ -13,11 +13,11 @@
 -   Proxy: 代理主题角色
 -   RealSubject: 真实主题角色
 
-![image](../../_static/16_proxy_pattern.jpg)
+![](../../_static/16_proxy_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/16_seq_proxy_pattern.jpg)
+![](../../_static/16_seq_proxy_pattern.jpg)
 
 ## 要点
 
@@ -42,11 +42,11 @@
 -   GumballStub: 糖果机本地代理
 -   GumballMachine: 真实糖果机
 
-![image](../../_static/16_remote_proxy.jpg)
+![](../../_static/16_remote_proxy.jpg)
 
 ### 时序图
 
-![image](../../_static/16_seq_remote_proxy.jpg)
+![](../../_static/16_seq_remote_proxy.jpg)
 
 ## 实例2
 
@@ -59,11 +59,11 @@
 -   ImageProxy: 图像代理
 -   ImageIcon: 图像类
 
-![image](../../_static/16_virtual_proxy.jpg)
+![](../../_static/16_virtual_proxy.jpg)
 
 ### 时序图
 
-![image](../../_static/16_seq_virtual_proxy.jpg)
+![](../../_static/16_seq_virtual_proxy.jpg)
 
 ## 实例3
 
@@ -77,7 +77,7 @@
 -   InvocationHandler: 抽象调用处理器
 -   InvocationHandlerImpl: 具体的调用处理器
 
-![image](../../_static/16_protection_proxy_1.jpg)
+![](../../_static/16_protection_proxy_1.jpg)
 
 ### 类图2
 
@@ -88,8 +88,8 @@
 -   OwnerInvocationHandler: 所有者调用处理器
 -   NonOwnerInvocationHandler: 非所有者调用处理器
 
-![image](../../_static/16_protection_proxy_2.jpg)
+![](../../_static/16_protection_proxy_2.jpg)
 
 ### 时序图
 
-![image](../../_static/16_seq_protection_proxy.jpg)
+![](../../_static/16_seq_protection_proxy.jpg)

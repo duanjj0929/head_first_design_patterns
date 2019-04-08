@@ -21,11 +21,11 @@
 -   ConcreteIterator: 具体迭代器  
     这个具体迭代器负责管理目前遍历的位置。
 
-![image](../../_static/13_iterator_pattern.jpg)
+![](../../_static/13_iterator_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/13_seq_iterator_pattern.jpg)
+![](../../_static/13_seq_iterator_pattern.jpg)
 
 ## 要点
 
@@ -49,14 +49,14 @@
 -   Iterator: 迭代器接口
 -   DinerMenuIterator: 餐厅菜单迭代器
 
-![image](../../_static/13_pancake_house_diner.jpg)
+![](../../_static/13_pancake_house_diner.jpg)
 
 ### 时序图
 
 -   创建女招待
 
-![image](../../_static/13_seq_pancake_house_diner_1.jpg)
+![](../../_static/13_seq_pancake_house_diner_1.jpg)
 
 -   打印菜单
 
-![image](../../_static/13_seq_pancake_house_diner_2.jpg)
+![](../../_static/13_seq_pancake_house_diner_2.jpg)

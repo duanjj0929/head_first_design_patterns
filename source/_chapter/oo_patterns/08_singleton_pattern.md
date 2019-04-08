@@ -10,11 +10,11 @@
 
 -   Singleton: 单例
 
-![image](../../_static/08_singleton_pattern.jpg)
+![](../../_static/08_singleton_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/08_seq_singleton_pattern.jpg)
+![](../../_static/08_seq_singleton_pattern.jpg)
 
 ## 要点
 

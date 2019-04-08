@@ -17,11 +17,11 @@
 -   Director: 指挥者
 -   Product: 产品角色
 
-![image](../../_static/07_builder_pattern.jpg)
+![](../../_static/07_builder_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/07_seq_builder_pattern.jpg)
+![](../../_static/07_seq_builder_pattern.jpg)
 
 ## 要点
 
@@ -46,8 +46,8 @@ KFC套餐
 -   KFCWatier: 指挥者
 -   Meal: 产品角色
 
-![image](../../_static/07_kfc_builder.jpg)
+![](../../_static/07_kfc_builder.jpg)
 
 ### 时序图
 
-![image](../../_static/07_seq_kfc_builder.jpg)
+![](../../_static/07_seq_kfc_builder.jpg)

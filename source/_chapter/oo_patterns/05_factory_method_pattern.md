@@ -15,11 +15,11 @@
 -   Factory: 抽象工厂
 -   ConcreteFactory: 具体工厂
 
-![image](../../_static/05_factory_method_pattern.jpg)
+![](../../_static/05_factory_method_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/05_seq_factory_method_pattern.jpg)
+![](../../_static/05_seq_factory_method_pattern.jpg)
 
 ## 要点
 
@@ -46,8 +46,8 @@
 -   FileLog: 文件具体产品
 -   DatabaseLog: 数据库具体Log
 
-![image](../../_static/05_loger.jpg)
+![](../../_static/05_loger.jpg)
 
 ### 时序图
 
-![image](../../_static/05_seq_loger.jpg)
+![](../../_static/05_seq_loger.jpg)

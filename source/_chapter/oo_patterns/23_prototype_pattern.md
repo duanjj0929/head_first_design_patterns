@@ -16,11 +16,11 @@
 -   Prototype: 抽象原型
 -   ConcretePrototype: 具体原型
 
-![image](../../_static/23_simple_form.jpg)
+![](../../_static/23_simple_form.jpg)
 
 ### 时序图
 
-![image](../../_static/23_seq_simple_form.jpg)
+![](../../_static/23_seq_simple_form.jpg)
 
 ## 登记形式
 
@@ -33,11 +33,11 @@
 -   ConcretePrototype: 具体原型
 -   PrototypeManager: 原型管理器
 
-![image](../../_static/23_registration_form.jpg)
+![](../../_static/23_registration_form.jpg)
 
 ### 时序图
 
-![image](../../_static/23_seq_registration_form.jpg)
+![](../../_static/23_seq_registration_form.jpg)
 
 ## 两种形式的比较
 
@@ -64,8 +64,8 @@
 -   Naruto: 鸣人
 -   Sasuke: 佐助
 
-![image](../../_static/23_ninjia.jpg)
+![](../../_static/23_ninjia.jpg)
 
 ### 时序图
 
-![image](../../_static/23_seq_ninjia.jpg)
+![](../../_static/23_seq_ninjia.jpg)

@@ -17,11 +17,11 @@
 -   UnsharedConcreteFlyweight: 非共享具体享元类
 -   FlyweightFactory: 享元工厂类
 
-![image](../../_static/19_flyweight_pattern.jpg)
+![](../../_static/19_flyweight_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/19_seq_flyweight_pattern.jpg)
+![](../../_static/19_seq_flyweight_pattern.jpg)
 
 ## 要点
 
@@ -45,8 +45,8 @@
 -   Grass: 具体享元类
 -   PlantFactory: 享元工厂类
 
-![image](../../_static/19_plant.jpg)
+![](../../_static/19_plant.jpg)
 
 ### 时序图
 
-![image](../../_static/19_seq_plant.jpg)
+![](../../_static/19_seq_plant.jpg)

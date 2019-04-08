@@ -13,11 +13,11 @@
 -   Observer: 观察者
 -   ConcreteObserver: 具体观察者
 
-![image](../../_static/02_observer_pattern.jpg)
+![](../../_static/02_observer_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/02_seq_observer_pattern.jpg)
+![](../../_static/02_seq_observer_pattern.jpg)
 
 ## 要点
 

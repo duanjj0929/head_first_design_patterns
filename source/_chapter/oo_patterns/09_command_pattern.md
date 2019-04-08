@@ -18,11 +18,11 @@
 -   NoCommand: 空命令类
 -   MacroCommand: 宏命令类
 
-![image](../../_static/09_command_pattern.jpg)
+![](../../_static/09_command_pattern.jpg)
 
 ## 时序图
 
-![image](../../_static/09_seq_command_pattern.jpg)
+![](../../_static/09_seq_command_pattern.jpg)
 
 ## 要点
 
@@ -51,8 +51,8 @@
 -   TVOpenCommand: 具体命令类
 -   TVCloseCommand: 具体命令类
 
-![image](../../_static/09_remote_control.jpg)
+![](../../_static/09_remote_control.jpg)
 
 ### 时序图
 
-![image](../../_static/09_seq_remote_control.jpg)
+![](../../_static/09_seq_remote_control.jpg)
