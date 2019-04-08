@@ -50,3 +50,9 @@
 |    原型模式(Prototype Pattern)完成
 |    访问者模式(Visitor Pattern)完成
 ```
+
+2019/03/28 - 2019/04/08:
+
+```
+|    复合模式(Compound Pattern)完成
+```

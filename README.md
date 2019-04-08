@@ -45,3 +45,4 @@
 -   备忘录模式(Memento Pattern)
 -   原型模式(Prototype Pattern)
 -   访问者模式(Visitor Pattern)
+-   复合模式(Compound Pattern)
