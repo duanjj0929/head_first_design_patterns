@@ -6,7 +6,7 @@
 
 ## MVC
 
-![](../../_static/25_mvc.jpg)
+![](../_static/25_mvc.jpg)
 
 ## 要点
 
@@ -34,8 +34,8 @@
 -   QuackCounter: 鸭子叫计数类
 -   QuackObservable: 鸭子叫发布者抽象类
 
-![](../../_static/25_duck_simulator.jpg)
+![](../_static/25_duck_simulator.jpg)
 
 ### 时序图
 
-![](../../_static/25_seq_duck_simulator.jpg)
+![](../_static/25_seq_duck_simulator.jpg)
